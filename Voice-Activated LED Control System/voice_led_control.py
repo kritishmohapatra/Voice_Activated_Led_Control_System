@@ -1,3 +1,4 @@
+'''Copyright (c) 2025 Kritish Mohapatra'''
 import speech_recognition as sr # Import the speech recognition library
 import pyttsx3 # Import the text-to-speech library
 import pyfirmata2 # Import the library for Arduino communication
