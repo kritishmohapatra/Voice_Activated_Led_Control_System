@@ -88,6 +88,9 @@ Here's the circuit diagram for this project:
 
 3.  **Give Commands:**
     * Speak the commands listed in the Code Explanation section to control the LEDs.
+ ## Practical Video
+ https://github.com/user-attachments/assets/1376da42-8473-44a8-8e0f-38d3e2303c47
+ 
 
 ## Important Notes
 
